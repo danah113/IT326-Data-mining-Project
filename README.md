@@ -10,4 +10,6 @@ We chose this dataset because mushrooms have a wide variety of physical characte
 | Danah Aljumaiah |
 | Leena Albaiz |
 | Lamar Aloufi |
+| Nouf Alshayea |
+
 
